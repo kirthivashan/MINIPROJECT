@@ -1,0 +1,34 @@
+{
+  "bo0ks": [
+    {
+      "id": "101",
+      "bookName": "C",
+      "bookAuthor": "RITCHIE"
+    },
+    {
+      "id": "102",
+      "bookName": "JAVA",
+      "bookAuthor": "GOSLING"
+    },
+    {
+      "id": "103",
+      "bookName": "C++",
+      "bookAuthor": "Bjarne"
+    },
+    {
+      "id": "104",
+      "bookName": "Python",
+      "bookAuthor": "James"
+    },
+    {
+      "id": "105",
+      "bookName": "c#",
+      "bookAuthor": "gos"
+    },
+    {
+      "id": "106",
+      "bookName": "MYSQL",
+      "bookAuthor": "Bala"
+    }
+  ]
+}
